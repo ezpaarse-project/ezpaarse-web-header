@@ -8,7 +8,7 @@
   }
 
   function init ($) {
-    var ressourcesUrl = 'http://ezpaarse-header-1.ezsites.inist.fr';
+    var ressourcesUrl = 'http://header.ezpaarse.org';
 
     $.ajax({
       url: ressourcesUrl + '/public/css/style-min.css',
